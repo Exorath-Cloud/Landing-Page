@@ -62,9 +62,9 @@
                 .prop('number', 0)
                 .animateNumber(
                     {
-                        number: 41169
+                        number: 2
                     },
-                    3500
+                    1250
                 );
 
         }, {offset: 800, triggerOnce: true});
