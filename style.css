@@ -1766,11 +1766,30 @@ ul.domainfeatures li {
     border: 5px solid #F9F9F9;
 }
 
+ul.domainfeatures li:hover {
+    background: #d7d7d7;
+    padding: 20px;
+    border: 5px solid #F9F9F9;
+}
+
 ul.domainfeatures p {
     font-size: 15px;
     font-weight: 400;
     text-align: left;
 }
+
+/*changes*/
+
+ul.domainfeatures a {
+    width: 200px;
+    color: inherit;
+}
+
+ul.domainfeatures a:hover {
+    color: inherit;
+}
+
+/*changes*/
 
 ul.domainfeatures h3 {
     font-size: 18px;
